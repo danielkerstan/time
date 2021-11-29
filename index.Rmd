@@ -84,6 +84,7 @@ plot_burndown(
 datatable(d_task)
 ```
 
+<<<<<<< HEAD
 ### 3. Data Visualization
 ```{r}
 task <- "Data Visualization"
@@ -140,3 +141,9 @@ plot_burndown(
 
 datatable(d_task)
 ```
+=======
+## Welcome
+
+## test for issue reference in commit
+
+>>>>>>> 57352a2ae25f96b3167b89bd4cfef0d4339b2079
